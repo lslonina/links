@@ -9,4 +9,4 @@
 7.	https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/
 8.	https://dzone.com/refcardz/core-java
 9.	https://dzone.com/refcardz/design-patterns
-
+10.  http://www.se-radio.net/2017/08/se-radio-episode-299-edson-tirelli-on-rules-engines/
