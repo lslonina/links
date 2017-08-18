@@ -1,16 +1,12 @@
 # links
 
-1.	Process Handling in Java 9                                                                           #java9
-2.	Top 50 Java Programs from Coding Interviews                                   #codingtask
-3.	Why the Whole Team Should Participate When Estimating          #estimates
-4.	Interview vs. Reality                                                                                      #fun
-5.	4 Techniques for Writing Better Java                                                      #cleancode
-6.	Refactor Man                                                                    #fun
-7.	Looking for failure                                                           #testing
-8.	Don't Make Your Code Lie                                            #cleancode
-9.	Ciemna strona IT                                                              #softwaredevelopment
-10.	Improvements in IntelliJ IDEA: Refactoring and Warnings              #intellij
-11.	Records from the JVM Language Summit              #java 
-12.	Serverless: A lesson learned. The hard way...     #serverlessarchitecture 
-13.	A Power-User's Guide to Java                                    #java 
-14.	Design Patterns                                                 #designpatterns 
+1.	https://javax0.wordpress.com/2017/07/19/process-handling-in-java-9/
+2.	http://javarevisited.blogspot.co.uk/2017/07/top-50-java-programs-from-coding-Interviews.html
+3.	https://www.mountaingoatsoftware.com/blog/why-the-whole-team-should-participate-when-estimating
+4.	https://dzone.com/articles/4-techniques-for-writing-better-java
+5.	http://blog.testdouble.com/posts/2017-07-31-looking-for-failure.html
+6.	https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n
+7.	https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/
+8.	https://dzone.com/refcardz/core-java
+9.	https://dzone.com/refcardz/design-patterns
+
